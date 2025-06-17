@@ -72,11 +72,3 @@ The dataset contains customer data such as:
 ----------------
 Pull requests and suggestions are welcome!  
 If you'd like to contribute, fork the repo and start coding!
-
-🧑‍💻 Author:
-------------
-Created with ❤️ by **Vikas Kumar**
-
-📄 License:
------------
-This project is licensed under the **MIT License**. Feel free to use and share!
